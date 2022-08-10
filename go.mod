@@ -1,4 +1,4 @@
-module github.com/abiosoft/caddy-json-parse
+module github.com/jamison-phillips/caddy-json-parse
 
 go 1.17
 
